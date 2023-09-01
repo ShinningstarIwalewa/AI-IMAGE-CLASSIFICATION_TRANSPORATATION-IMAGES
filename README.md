@@ -121,7 +121,4 @@ better generalization performance.
 ### Future Work
 In the nearest future, my aspiration involves training more diverse model architectures while working with a more samples of training and validation data. This endeavor aims to explore alternative neural network structures, that might lead to better accuracy and precision broader applicability. I also would provide a better representation of the confusion matrix and expolore other classification metrics
 
-### Lincense 
-There is no lincense to contribute to this project, however suggestions can be sent to sofiyyahakolade72@gmail.com
-
 
